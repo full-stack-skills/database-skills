@@ -2,7 +2,7 @@
 
 ## Overview
 
-Database skills plugin for Claude Code — 5 database reference skills covering PostgreSQL, MySQL, Oracle, Redis, and Elasticsearch. Part of the [full-stack-skills](https://github.com/full-statck-skills) ecosystem maintained by PartMeAI. Compatible with the [Agent Skills spec](https://agentskills.io).
+Database skills plugin for Claude Code — 5 database reference skills covering PostgreSQL, MySQL, Oracle, Redis, and Elasticsearch. Part of the [full-stack-skills](https://github.com/full-stack-skills) ecosystem maintained by PartMeAI. Compatible with the [Agent Skills spec](https://agentskills.io).
 
 ## Skills
 
