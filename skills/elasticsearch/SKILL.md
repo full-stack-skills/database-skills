@@ -1,7 +1,7 @@
 ---
 name: elasticsearch
 description: Provides comprehensive guidance for Elasticsearch including indexing, mappings, query DSL, aggregations, analyzers, cluster management, and ELK Stack integration. Use when the user asks about Elasticsearch, needs to implement search functionality, work with Elasticsearch queries, or manage Elasticsearch clusters.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 # Elasticsearch — 分布式搜索与分析引擎

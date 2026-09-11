@@ -1,7 +1,7 @@
 ---
 name: oracle
 description: Provides comprehensive guidance for Oracle database including SQL, PL/SQL, functions, performance tuning (AWR/ASH), backup (RMAN), Data Guard, and RAC. Use when the user asks about Oracle, needs to write Oracle SQL, work with PL/SQL, or manage Oracle databases.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 # Oracle Database — 企业级关系型数据库

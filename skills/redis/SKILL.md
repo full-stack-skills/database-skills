@@ -1,7 +1,7 @@
 ---
 name: redis
 description: Provides comprehensive guidance for Redis including data structures (string/hash/list/set/zset/geo/hyperloglog/bitmap/stream), common commands with examples, caching patterns, persistence (RDB/AOF), replication & sentinel, cluster, Lua scripting, transactions, pub/sub, pipelining, security hardening, and production best practices. Use when the user asks about Redis, needs to implement caching, choose Redis data structures, configure persistence or cluster, or troubleshoot Redis performance.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 # Redis — 内存数据结构存储系统

@@ -1,7 +1,7 @@
 ---
 name: postgresql
 description: Provides comprehensive guidance for PostgreSQL including SQL syntax, advanced features (JSONB/CTE/Full-text), functions, indexing, performance tuning, replication, and backup. Use when the user asks about PostgreSQL, needs to work with PostgreSQL features, write complex queries, or optimize PostgreSQL databases.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 # PostgreSQL — 高级关系型数据库系统

@@ -1,7 +1,7 @@
 ---
 name: mysql
 description: Provides comprehensive guidance for MySQL including SQL syntax, functions, indexing, optimization, replication, backup, and high availability. Use when the user asks about MySQL, needs to write MySQL queries, design database schemas, optimize performance, or manage MySQL databases.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 # MySQL — 关系型数据库管理系统
